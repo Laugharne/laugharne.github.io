@@ -12,6 +12,8 @@ body {
   align-items: center;
   height: 100vh;
   background-color: black;
+  color: rgb(64, 64, 255);
+  font-family: "Comfortaa", cursive;
 }
 
 .content-wrapper {
@@ -23,6 +25,23 @@ h1 {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 5em;
   letter-spacing: -0.04em;
+}
+
+
+h2 {
+  color: white;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 4em;
+  letter-spacing: -0.04em;
+}
+
+h3 {
+  color: rgb(64, 64, 255);
+  color: white; 
+  font-weight: normal;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 3.3em;
+  letter-spacing: -0.02em;
 }
 
 p {
