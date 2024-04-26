@@ -45,15 +45,16 @@ h3 {
 }
 
 p {
-  color: rgb(64, 64, 255);
+  color: rgb(00, 80, 255);
   /* color: rgb(98, 0, 255); */
   font-family: "Comfortaa", cursive;
-  font-size: 1.4em;
+  font-size: 1.44em;
   margin: 10px 0;
   font-weight: bold;
 }
 
 .divider {
+  font-family: "Source Sans Pro", sans-serif;
   color: white;
 }
 
