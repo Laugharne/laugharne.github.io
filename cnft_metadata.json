@@ -4,12 +4,8 @@
   "description": "Solana Summer Fellowship 2024 cNFT collection from Laugharne",
   "seller_fee_basis_points": 0,
   "image": "https://laugharne.github.io/logo.png",
-  "attributes": [
-    {
-      "type": "link",
-      "value": "https://laugharne.github.io/"
-    }
-  ],
+  "external_url": "https://laugharne.github.io/",
+  "attributes": [],
   "collection": {
     "name": "Laugharne cNFTs Collection #1",
     "family": "Laugharne cNFTs"
