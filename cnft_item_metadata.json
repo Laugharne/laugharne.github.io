@@ -27,5 +27,10 @@
 		}
 	  ],
 	  "category": "image"
+	},
+	"creators": {
+		"address": "9BbWp6tcX9MEGSUEpNXfspYxYsWCxE9FgRkAc3RpftkT",
+		"verified": false,
+		"share": 100
 	}
   }
