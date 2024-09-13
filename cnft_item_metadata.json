@@ -27,6 +27,10 @@
 			"value"     : "Yeah!"
 		},
 		{
+			"trait_type": "Link",
+			"value"     : "https://laugharne.github.io"
+		},
+		{
 			"trait_type": "Mint date",
 			"value"     : "2024-09-12"
 		}
